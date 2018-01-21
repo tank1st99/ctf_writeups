@@ -1,10 +1,10 @@
 # VulnShop (WEB)
 
-+Task+
+## Task
 We're preparing a website for selling some important vulnerabilities in the future. You can browse some static pages on it, waiting for the official release.
 http://vulnshop.teaser.insomnihack.ch
 
-+Soluton+
+## Soluton
 
 [1] This line of code allows us to execute arbitrary function with arbitrary second argument. First argument is name of temp file.
 ```php
